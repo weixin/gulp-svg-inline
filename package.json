@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-svg-inline@^1.0.1",
+        "scope": null,
+        "escapedName": "gulp-svg-inline",
+        "name": "gulp-svg-inline",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "/Users/doubleluo/Documents/workflow"
+    ]
+  ],
+  "_from": "gulp-svg-inline@>=1.0.1 <2.0.0",
+  "_id": "gulp-svg-inline@1.0.1",
+  "_inCache": true,
+  "_location": "/gulp-svg-inline",
+  "_nodeVersion": "4.4.6",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-svg-inline-1.0.1.tgz_1474961920896_0.6096408588346094"
+  },
+  "_npmUser": {
+    "name": "doubleluo",
+    "email": "6185763@qq.com"
+  },
+  "_npmVersion": "2.15.5",
+  "_phantomChildren": {
+    "core-util-is": "1.0.2",
+    "ctype": "0.5.3",
+    "inherits": "2.0.3",
+    "json-stringify-safe": "5.0.1",
+    "node-uuid": "1.4.7",
+    "object-keys": "0.4.0",
+    "string_decoder": "0.10.31",
+    "tough-cookie": "2.3.2"
+  },
+  "_requested": {
+    "raw": "gulp-svg-inline@^1.0.1",
+    "scope": null,
+    "escapedName": "gulp-svg-inline",
+    "name": "gulp-svg-inline",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-svg-inline/-/gulp-svg-inline-1.0.1.tgz",
+  "_shasum": "8ac781c12287db457a982be3a159f31a8d12d24e",
+  "_shrinkwrap": null,
+  "_spec": "gulp-svg-inline@^1.0.1",
+  "_where": "/Users/doubleluo/Documents/workflow",
+  "author": "",
+  "dependencies": {
+    "async": "~0.2.10",
+    "buffers": "~0.1.1",
+    "extend": "~1.2.1",
+    "mime": "~1.2.11",
+    "request": "~2.33.0",
+    "through2": "~0.4.1"
+  },
+  "description": "svg-inline-css",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8ac781c12287db457a982be3a159f31a8d12d24e",
+    "tarball": "https://registry.npmjs.org/gulp-svg-inline/-/gulp-svg-inline-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "doubleluo",
+      "email": "6185763@qq.com"
+    }
+  ],
+  "name": "gulp-svg-inline",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
